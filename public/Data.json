@@ -1,0 +1,110 @@
+[
+    { 
+      "id": 1,
+      "title": "Wedding Engagement party",
+      "image": "https://i.ibb.co/BLwrjRM/387530806-3601519573470620-1684825110531850019-n.jpg?fbclid=IwAR2Zw5jxtpQ8mmsYac2U-QimElMcP_8cnyS-CmkjTTgYO6L9gnlGDAK6v4s",
+      "short_description": "An engagement party is a celebration following a couple's engagement, typically with close friends and family, where they announce their commitment to marriage.",
+      "board_description" : "An engagement party is a pre-wedding celebration hosted by an engaged couple to share their joyous commitment with close friends and family. Typically held soon after the engagement, it includes guests, toasts, and often takes place at various venues, setting the stage for the upcoming wedding celebrations in a festive and intimate manner.",
+      "price": 25000 
+    },
+    { 
+      "id": 2,
+      "title": "Wedding yellow evening",
+      "image": "https://i.ibb.co/sRmmd9B/384846264-852173296237592-7197538350259396391-n.jpg?fbclid=IwAR3VRXPkAmsGvAO1QvaDiqkvNvoAjAOCoVxPAPqKDNdv_2h5yAIGUYZCv9I",
+      "short_description": "A wedding with a yellow evening theme features a vibrant and cheerful atmosphere, with yellow decor, flowers, and attire creating a sunny ambiance.",
+      "board_description" : "A yellow evening wedding is a celebration bathed in the warm and cheerful hues of yellow. This color palette infuses the event with brightness, happiness, and positivity. From yellow floral arrangements to golden accents, it radiates a vibrant and joyful atmosphere, creating an unforgettable evening full of warmth and charm.",
+      "price": 15000
+    },
+    { 
+      "id": 3,
+      "title": "Wedding Party",
+      "image": "https://i.ibb.co/N9C6W2p/384832153-853822309617341-8565235182596923322-n.jpg?fbclid=IwAR3VRXPkAmsGvAO1QvaDiqkvNvoAjAOCoVxPAPqKDNdv_2h5yAIGUYZCv9I",
+      "short_description": "A wedding party consists of bridesmaids, groomsmen, and other close friends and family who support and celebrate the couple on their wedding day.",
+      "board_description" : "A wedding party is a group of friends and family who play essential roles in a couple's wedding. It typically includes bridesmaids, groomsmen, flower girls, ring bearers, and the maid of honor and best man. They support the couple, participate in ceremonies, and celebrate the union, adding meaning to the day.",
+      "price": 22000
+    },
+    
+    { 
+      "id": 4,
+
+      "title": "Wedding Decoration",
+
+      "image": "https://i.ibb.co/0YnNqJY/387339569-247513891208643-7267700644463589516-n.jpg?fbclid=IwAR0cqY5SI9w_lEo8ItgAJgg7OjRbX8hfZCQXed7HKzQIt9VPA0WcPkacUAk",
+
+      "short_description": "Wedding decorations encompass flowers, lighting, table settings, and more, enhancing the ambiance and theme to create a beautiful and memorable atmosphere.",
+
+      "board_description" : "Wedding decorations encompass all the elements used to enhance the aesthetic and atmosphere of a wedding venue. This includes flowers, table settings, lighting, drapery, and various decor items that align with the chosen theme or color scheme, creating a beautiful and memorable ambiance that reflects the couple's style and vision.",
+
+      "price": 25000
+    },
+    { 
+      "id": 5,
+
+      "title": "Food Arrangement",
+
+      "image": "https://i.ibb.co/dttgp9z/istockphoto-497784792-170667a.webp?fbclid=IwAR35SzbGVS0Z7rT6hSCiLhwlimpWjpJosgfNj0ZaTZQ5VKREMT7fy8vT6ZA",
+
+      "short_description": "Food arrangement at a wedding involves selecting, presenting, and serving a delicious menu that caters to guests' tastes and dietary preferences.",
+
+      "board_description" : "Food arrangement at a wedding involves careful planning and presentation of a diverse menu that caters to guests' tastes and dietary preferences. It includes selecting a caterer, designing the menu, arranging food stations or buffet tables, and ensuring timely and delicious service, enhancing the overall dining experience for attendees.",
+
+      "price": 14000 
+    },
+    { 
+      "id": 6,
+
+      "title": "Photography and Videography",
+
+      "image": "https://i.ibb.co/5BQcn9s/386886614-261707509635577-5824395733529680666-n.jpg?fbclid=IwAR0wZZ_MhVX3rOQw8LTgDiEMc0E3iWvycb5gR3BiqfS6yDir_yQaNU-mm3Y",
+
+      "short_description": "Wedding photography and videography capture the precious moments, emotions, and memories of a couple's special day, preserving them for a lifetime.",
+
+      "board_description" : "Wedding photography and videography are crucial for capturing the moments, emotions, and memories of a couple's special day. Photographers and videographers use their skills to document the ceremony, reception, and candid moments, providing lasting mementos that allow the couple to relive their wedding day for years to come.",
+
+      "price": 12000
+    },
+    
+    { 
+      "id": 7,
+
+      "title": " Wedding cultural events",
+
+      "image": "https://i.ibb.co/nzqb2qP/384847284-258886197136907-3448339982988217044-n.jpg?fbclid=IwAR0_KA0U7f9o_oNv7TKIrDckzA4SP-CeXRc4J1MLRu7yeTsE-TH0Q6PO9jY",
+
+      "short_description": "Wedding cultural events are customs and traditions unique to a couple's cultural background, adding meaningful rituals and symbolism to their wedding celebration.",
+
+      "board_description" : "Wedding cultural events encompass customs and traditions specific to a couple's cultural background, infusing their wedding ceremony and celebration with meaningful rituals, symbolism, and heritage. These events reflect the couple's cultural identity, uniting families, and adding unique and significant elements that contribute to the richness of their wedding experience.",
+
+      "price": 7000
+    },
+    { 
+      "id": 8,
+
+      "title": " wedding gift items",
+
+      "image": "https://i.ibb.co/KKJcnzJ/386923694-845610147220421-4272046825308123087-n.gif?fbclid=IwAR2nNTHhhyiPh7QRqgD-t-i49N46PpcTvRzhFG2z1CrK56sm2kgm1i_uTR0",
+
+      "short_description": "Wedding gift items are presents given to the newlyweds to celebrate their marriage, ranging from practical household items to sentimental keepsakes.",
+
+      "board_description" : "Wedding gift items are thoughtful presents given to the newlywed couple to celebrate their marriage. They can range from practical household items like kitchen appliances and linens to sentimental gifts like personalized keepsakes or contributions to a honeymoon fund. These gifts convey love, support, and best wishes for the couple's future together.",
+
+      "price": 20000
+    },
+    { 
+      "id": 9,
+
+      "title": " Wedding Vendor Payments",
+
+      "image": "https://i.ibb.co/WHRqvVN/384841034-879886703011548-7143777848021831246-n.jpg?fbclid=IwAR3Knvi-t2xkMAxvsx_ExwfJK2zZZV6aCMcnOggCC3xKSR2vyYNyTxPXllg",
+
+      "short_description": "Wedding vendor payments are financial transactions made to suppliers and service providers for their contributions to the wedding, ensuring smooth service delivery.",
+
+      "board_description" : "Wedding vendor payments involve settling financial obligations with the various suppliers and service providers hired for a wedding. This includes paying vendors for their services, often in accordance with contractual agreements, to ensure the smooth and successful execution of all aspects of the wedding, from catering to photography and beyond.",
+
+      "price": 10000
+    }
+   
+    
+   
+    
+  ]
